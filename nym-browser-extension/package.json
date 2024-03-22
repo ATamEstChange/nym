@@ -24,7 +24,7 @@
     "@nymproject/react": "^1.0.0",
     "@nymproject/types": "^1.0.0",
     "@nymproject/extension-storage": ">=1.2.0-rc.0 || 1",
-    "@storybook/react": "^6.5.16",
+    "@storybook/react": "^7.0.0",
     "big.js": "^6.2.1",
     "crypto-js": "^4.1.1",
     "qrcode.react": "^3.1.0",
